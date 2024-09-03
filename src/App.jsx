@@ -1,7 +1,8 @@
+import BlogList from "./components/BlogList";
 import Container from "./components/Container";
 
 const App = () => {
-    return <Container>App</Container>;
+    return <BlogList />;
 };
 
 export default App;
